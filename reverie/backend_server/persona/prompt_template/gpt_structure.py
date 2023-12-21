@@ -13,7 +13,7 @@ from utils import *
 
 openai.api_key = openai_api_key
 
-def temp_sleep(seconds=0.1):
+def temp_sleep(seconds=20):
   time.sleep(seconds)
 
 def ChatGPT_single_request(prompt): 
@@ -274,6 +274,7 @@ def safe_generate_response(prompt,
 
 
 def get_embedding(text, model="text-embedding-ada-002"):
+  temp_sleep()
   text = text.replace("\n", " ")
   if not text: 
     text = "this is blank"
