@@ -597,6 +597,10 @@ class ReverieServer:
             for whisper in whispers:
               clean_whispers += [[agent_name, whisper]]
 
+          #fix current time error
+          # for persona_name, persona in self.personas.items():
+          #   persona.scratch.curr_time = self.curr_time
+
           load_history_via_whisper(self.personas, clean_whispers)
 
         print (ret_str)
