@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        97,
+        30
+      ],
+      "pronunciatio": "\ud83e\udde9",
+      "description": "moderating discussions (facilitating the discussion) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udda5\ufe0f",
+      "description": "attending the conference (setting up her presentation materials) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        115,
+        47
+      ],
+      "pronunciatio": "\ud83d\udd0e\ud83d\udcca",
+      "description": "preparing slides for his presentation (selecting relevant data for the presentation) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:08:00"
+  }
+}

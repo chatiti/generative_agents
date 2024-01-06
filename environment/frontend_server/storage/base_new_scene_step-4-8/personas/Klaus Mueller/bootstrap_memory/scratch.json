@@ -1,0 +1,497 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 11:00:00",
+  "curr_tile": [
+    127,
+    50
+  ],
+  "daily_plan_req": "Klaus Mueller reports research discoveries and joins topic discussions from 9 am to 11 am during the morning session of the academic conference held in the Dorm for Oak Hill College's common room.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "reserved, thoughtful, intellectually curious",
+  "learned": "Klaus Mueller has contributed significantly to the advancement of knowledge in his field through years of thoughtful exploration.",
+  "currently": "Klaus Mueller is dedicated to refining his research for an upcoming academic conference, organizing data, preparing slides, and rehearsing for a clear and impactful presentation. He looks forward to engaging discussions with peers from diverse fields.",
+  "lifestyle": "Klaus Mueller maintains a schedule, sleeping at 12 am and waking up at 7 am. He actively engages in the morning conference session from 9 am to 11 am.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 3,
+  "importance_ele_n": 52,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "review and analyze research data from 8:00 am to 10:00 am",
+    "have a lunch at 12:00 pm",
+    "practice the presentation from 1:00 pm to 3:00 pm",
+    "take a break and do social activities from 4:00 pm to 5:00 pm",
+    "watch TV from 7 to 8 pm",
+    "prepare for tomorrow from 8:00 pm to 9:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine",
+      60
+    ],
+    [
+      "reviewing and analyzing research data (reviewing the research data)",
+      15
+    ],
+    [
+      "reviewing and analyzing research data (organizing the data)",
+      30
+    ],
+    [
+      "reviewing and analyzing research data (analyzing the data)",
+      30
+    ],
+    [
+      "reviewing and analyzing research data (taking a break)",
+      15
+    ],
+    [
+      "reviewing and analyzing research data (on the way to making notes on the data)",
+      0
+    ],
+    [
+      "reviewing and analyzing research data (conversing about finding common ground for potential collaborations and scheduling a meeting to discuss their ideas in more detail, with Maria Lopez and Klaus Mueller)",
+      8
+    ],
+    [
+      "reviewing and analyzing research data (making notes on the data)",
+      7
+    ],
+    [
+      "reviewing and analyzing research data (double-checking the data)",
+      15
+    ],
+    [
+      "preparing slides for his presentation (selecting relevant data for the presentation)",
+      10
+    ],
+    [
+      "preparing slides for his presentation (creating the presentation slides)",
+      20
+    ],
+    [
+      "preparing slides for his presentation (reviewing the presentation slides)",
+      10
+    ],
+    [
+      "preparing slides for his presentation (making final changes to the presentation slides)",
+      10
+    ],
+    [
+      "preparing slides for his presentation (printing the presentation slides)",
+      10
+    ],
+    [
+      "attending the morning session of the academic conference (listening to the presentation of the speaker)",
+      5
+    ],
+    [
+      "attending the morning session of the academic conference (taking notes)",
+      10
+    ],
+    [
+      "attending the morning session of the academic conference (asking questions)",
+      10
+    ],
+    [
+      "attending the morning session of the academic conference (engaging in discussion with peers)",
+      15
+    ],
+    [
+      "attending the morning session of the academic conference (taking a break)",
+      5
+    ],
+    [
+      "attending the morning session of the academic conference (reviewing his notes)",
+      10
+    ],
+    [
+      "attending the morning session of the academic conference (preparing for his presentation)",
+      5
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "practicing the presentation",
+      120
+    ],
+    [
+      "taking a break and doing social activities",
+      120
+    ],
+    [
+      "watching TV",
+      120
+    ],
+    [
+      "preparing for tomorrow",
+      180
+    ],
+    [
+      "sleeping",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine",
+      60
+    ],
+    [
+      "reviewing and analyzing research data",
+      120
+    ],
+    [
+      "preparing slides for his presentation",
+      60
+    ],
+    [
+      "attending the morning session of the academic conference",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "practicing the presentation",
+      120
+    ],
+    [
+      "taking a break and doing social activities",
+      120
+    ],
+    [
+      "watching TV",
+      120
+    ],
+    [
+      "preparing for tomorrow",
+      180
+    ],
+    [
+      "sleeping",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Oak Hill College:library:library table",
+  "act_start_time": "February 13, 2023, 10:52:00",
+  "act_duration": 10,
+  "act_description": "preparing slides for his presentation (printing the presentation slides)",
+  "act_pronunciatio": "\ud83d\udda8\ufe0f",
+  "act_event": [
+    "Klaus Mueller",
+    "print",
+    "presentation slides"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udd04",
+  "act_obj_event": [
+    "library table",
+    "be",
+    "used"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": 704
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      125,
+      50
+    ],
+    [
+      124,
+      50
+    ],
+    [
+      123,
+      50
+    ],
+    [
+      122,
+      50
+    ],
+    [
+      121,
+      50
+    ],
+    [
+      120,
+      50
+    ],
+    [
+      119,
+      50
+    ],
+    [
+      118,
+      50
+    ],
+    [
+      117,
+      50
+    ],
+    [
+      117,
+      49
+    ],
+    [
+      117,
+      48
+    ],
+    [
+      117,
+      47
+    ],
+    [
+      116,
+      47
+    ],
+    [
+      115,
+      47
+    ],
+    [
+      114,
+      47
+    ],
+    [
+      113,
+      47
+    ],
+    [
+      112,
+      47
+    ],
+    [
+      111,
+      47
+    ],
+    [
+      110,
+      47
+    ],
+    [
+      109,
+      47
+    ],
+    [
+      108,
+      47
+    ],
+    [
+      108,
+      46
+    ],
+    [
+      108,
+      45
+    ],
+    [
+      108,
+      44
+    ],
+    [
+      108,
+      43
+    ],
+    [
+      108,
+      42
+    ],
+    [
+      108,
+      41
+    ],
+    [
+      108,
+      40
+    ],
+    [
+      108,
+      39
+    ],
+    [
+      108,
+      38
+    ],
+    [
+      108,
+      37
+    ],
+    [
+      108,
+      36
+    ],
+    [
+      108,
+      35
+    ],
+    [
+      108,
+      34
+    ],
+    [
+      108,
+      33
+    ],
+    [
+      108,
+      32
+    ],
+    [
+      109,
+      32
+    ],
+    [
+      109,
+      31
+    ],
+    [
+      109,
+      30
+    ],
+    [
+      110,
+      30
+    ],
+    [
+      111,
+      30
+    ],
+    [
+      112,
+      30
+    ],
+    [
+      113,
+      30
+    ],
+    [
+      114,
+      30
+    ],
+    [
+      115,
+      30
+    ],
+    [
+      116,
+      30
+    ],
+    [
+      117,
+      30
+    ],
+    [
+      118,
+      30
+    ],
+    [
+      119,
+      30
+    ],
+    [
+      119,
+      29
+    ],
+    [
+      119,
+      28
+    ],
+    [
+      119,
+      27
+    ],
+    [
+      119,
+      26
+    ],
+    [
+      119,
+      25
+    ],
+    [
+      119,
+      24
+    ]
+  ]
+}

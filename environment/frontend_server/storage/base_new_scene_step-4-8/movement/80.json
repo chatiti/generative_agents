@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "heading to the Dorm for Oak Hill College's common room for the meeting (checking her notes for the conference) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finding common ground for potential collaborations and scheduling a meeting to discuss their ideas in more detail, with Maria Lopez and Klaus Mueller @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I noticed that we both have a shared academic past. It's intriguing, isn't it?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, it is fascinating to see how our paths have crossed again. I remember our previous discussion on potential collaborations. I would love to talk more about that and see if we can find common ground for future projects."
+        ],
+        [
+          "Maria Lopez",
+          "I agree, it would be great to explore potential collaborations. Let's find some time after the conference to discuss further."
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, definitely! Let's schedule a time to meet and discuss our ideas in more detail. How about tomorrow afternoon after the conference sessions?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, tomorrow afternoon works for me. Let's meet at the conference venue after the sessions."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I will see you tomorrow afternoon at the conference venue after the sessions. Looking forward to our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, have you seen Isabella Rodriguez around? I want to catch up with her as well."
+        ],
+        [
+          "Klaus Mueller",
+          "I haven't seen Isabella Rodriguez recently, but I can ask around and let you know if I find her."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your help."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'll ask around and let you know if I find her. See you tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your help."
+        ],
+        [
+          "Klaus Mueller",
+          "I will let you know if I find Isabella. Enjoy the rest of the conference!"
+        ],
+        [
+          "Maria Lopez",
+          "Actually, let's exchange contact information now so we can stay in touch and plan our meeting more easily."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, let's exchange contact information now. What's your email address?"
+        ],
+        [
+          "Maria Lopez",
+          "My email address is [email protected]"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I will send you an email later today so we can connect and plan our meeting. Have a great day!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        129,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finding common ground for potential collaborations and scheduling a meeting to discuss their ideas in more detail, with Maria Lopez and Klaus Mueller @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I noticed that we both have a shared academic past. It's intriguing, isn't it?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, it is fascinating to see how our paths have crossed again. I remember our previous discussion on potential collaborations. I would love to talk more about that and see if we can find common ground for future projects."
+        ],
+        [
+          "Maria Lopez",
+          "I agree, it would be great to explore potential collaborations. Let's find some time after the conference to discuss further."
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, definitely! Let's schedule a time to meet and discuss our ideas in more detail. How about tomorrow afternoon after the conference sessions?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, tomorrow afternoon works for me. Let's meet at the conference venue after the sessions."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I will see you tomorrow afternoon at the conference venue after the sessions. Looking forward to our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, have you seen Isabella Rodriguez around? I want to catch up with her as well."
+        ],
+        [
+          "Klaus Mueller",
+          "I haven't seen Isabella Rodriguez recently, but I can ask around and let you know if I find her."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your help."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'll ask around and let you know if I find her. See you tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your help."
+        ],
+        [
+          "Klaus Mueller",
+          "I will let you know if I find Isabella. Enjoy the rest of the conference!"
+        ],
+        [
+          "Maria Lopez",
+          "Actually, let's exchange contact information now so we can stay in touch and plan our meeting more easily."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, let's exchange contact information now. What's your email address?"
+        ],
+        [
+          "Maria Lopez",
+          "My email address is [email protected]"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I will send you an email later today so we can connect and plan our meeting. Have a great day!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:20:00"
+  }
+}

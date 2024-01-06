@@ -1,0 +1,343 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 11:00:00",
+  "curr_tile": [
+    119,
+    49
+  ],
+  "daily_plan_req": "Maria Lopez shares her research findings during the morning conference session held in the Dorm for Oak Hill College's common room from 9 am to 11 am and actively participates in discussions.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "analytical, focused, approachable",
+  "learned": "AI researcher Maria Lopez, dedicated to education, shares valuable insights with a keen analytical mindset developed through years of study and research in artificial intelligence.",
+  "currently": "Maria Lopez is refining her AI research presentation, eager to share insights and engage with scholars at the conference.",
+  "lifestyle": "Maria Lopez sleeps at 10:30 pm, wakes up at 7 am, balancing research and class prep without affecting the conference schedule.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 110,
+  "importance_ele_n": 8,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "work on refining the presentation from 8:00 am to 11:00 am",
+    "have a lunch at 12:00 pm",
+    "attend the conference from 1:00 pm to 4:00 pm",
+    "take some rest from 4:00 pm to 5:00 pm",
+    "revise and prepare for the next session from 5:00 pm to 7:00 pm",
+    "have dinner at 8:00 pm",
+    "watch TV from 7 to 8 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "working on refining her presentation (reviewing her research findings)",
+      15
+    ],
+    [
+      "working on refining her presentation (creating her presentation slides)",
+      30
+    ],
+    [
+      "working on refining her presentation (practicing her presentation)",
+      30
+    ],
+    [
+      "working on refining her presentation (making final changes to her presentation)",
+      15
+    ],
+    [
+      "working on refining her presentation (on the way to printing her presentation slides)",
+      0
+    ],
+    [
+      "working on refining her presentation (conversing about finding common ground for potential collaborations and scheduling a meeting to discuss their ideas in more detail, with Maria Lopez and Klaus Mueller)",
+      8
+    ],
+    [
+      "working on refining her presentation (printing her presentation slides)",
+      10
+    ],
+    [
+      "working on refining her presentation (packing her presentation materials)",
+      5
+    ],
+    [
+      "working on refining her presentation (reviewing her presentation one last time)",
+      5
+    ],
+    [
+      "working on refining her presentation (putting her presentation materials in her bag)",
+      2
+    ],
+    [
+      "attending the conference (setting up her presentation materials)",
+      15
+    ],
+    [
+      "attending the conference (introducing her research)",
+      15
+    ],
+    [
+      "attending the conference (presenting her research findings)",
+      30
+    ],
+    [
+      "attending the conference (on the way to answering questions from the audience)",
+      0
+    ],
+    [
+      "attending the conference (conversing about This is a conversation between Isabella Rodriguez and Maria Lopez discussing Maria's research findings and making plans to meet for a coffee chat to discuss it in more detail.)",
+      15
+    ],
+    [
+      "attending the conference (answering questions from the audience)",
+      15
+    ],
+    [
+      "attending the conference (taking a break)",
+      15
+    ],
+    [
+      "attending the conference (summarizing her research)",
+      15
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "attending the conference",
+      180
+    ],
+    [
+      "taking some rest",
+      60
+    ],
+    [
+      "revising and preparing for the next session",
+      120
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "watching TV",
+      60
+    ],
+    [
+      "revising and preparing for the next session",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "working on refining her presentation",
+      120
+    ],
+    [
+      "attending the conference",
+      120
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "attending the conference",
+      180
+    ],
+    [
+      "taking some rest",
+      60
+    ],
+    [
+      "revising and preparing for the next session",
+      120
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "watching TV",
+      60
+    ],
+    [
+      "revising and preparing for the next session",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "<persona> Isabella Rodriguez",
+  "act_start_time": "February 13, 2023, 10:46:00",
+  "act_duration": 15,
+  "act_description": "conversing about This is a conversation between Isabella Rodriguez and Maria Lopez discussing Maria's research findings and making plans to meet for a coffee chat to discuss it in more detail.",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Maria Lopez",
+    "chat with",
+    "Isabella Rodriguez"
+  ],
+  "act_obj_description": null,
+  "act_obj_pronunciatio": null,
+  "act_obj_event": [
+    null,
+    null,
+    null
+  ],
+  "chatting_with": "Isabella Rodriguez",
+  "chat": [
+    [
+      "Isabella Rodriguez",
+      "Hi Maria! I just wanted to say that your presentation was incredible. I was really impressed with your research findings."
+    ],
+    [
+      "Maria Lopez",
+      "Thank you so much, Isabella! I really appreciate your kind words."
+    ],
+    [
+      "Isabella Rodriguez",
+      "I would love to discuss your research findings in more detail. Can we grab coffee later to talk about it?"
+    ],
+    [
+      "Maria Lopez",
+      "Thank you, Isabella! I would love to grab coffee later and discuss my research findings with you in more detail."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Great! How about we meet at the caf\u00e9 near the conference venue at 3 pm?"
+    ],
+    [
+      "Maria Lopez",
+      "Sure, that works for me! See you at the caf\u00e9 near the conference venue at 3 pm."
+    ],
+    [
+      "Isabella Rodriguez",
+      "I'm looking forward to hearing more about your research findings and discussing it further over coffee."
+    ],
+    [
+      "Maria Lopez",
+      "Thank you, Isabella! I'm really interested in your thoughts as well. Did you have any particular questions or ideas about my research findings?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "I have a few questions about your methodology. Could you explain the process you used to collect data?"
+    ],
+    [
+      "Maria Lopez",
+      "Sure, Isabella! I'd be happy to explain the process I used to collect data. I utilized a combination of surveys and interviews to gather qualitative and quantitative data from participants. The surveys were designed to gather demographic information and gather participants' perspectives on the topic. The interviews allowed for in-depth exploration of participants' experiences and thoughts. I also conducted a literature review to provide context and support for the findings. Was there anything specific about the data collection process you wanted to know?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "That sounds like a comprehensive approach to data collection, Maria. I'm particularly interested in the survey design and how you ensured the reliability and validity of the data. Could you share more about that?"
+    ],
+    [
+      "Maria Lopez",
+      "Yes, of course! I'd be happy to explain the survey design and how I ensured the reliability and validity of the data. For the survey design, I used well-established and validated questionnaires that have been used in previous research studies. These questionnaires have shown high reliability and validity in measuring the constructs of interest. Additionally, I conducted a pilot study with a small group of participants to test the survey's clarity and understandability. Based on their feedback, I made some minor revisions to improve the survey's effectiveness. As for ensuring the reliability and validity of the data, I employed various strategies such as conducting tests for internal consistency, using appropriate statistical analyses, and cross-checking the findings with qualitative data from interviews. By employing these rigorous measures, I aimed to ensure the accuracy and credibility of the data collected."
+    ],
+    [
+      "Isabella Rodriguez",
+      "Thank you for explaining the survey design and the measures you took to ensure the reliability and validity of the data, Maria. It sounds like you had a thorough approach. I'm excited to learn more about your findings during our coffee chat."
+    ],
+    [
+      "Maria Lopez",
+      "Thank you, Isabella! I'm eager to hear your thoughts on my research findings as well. Did you have any preliminary ideas or questions?"
+    ],
+    [
+      "Isabella Rodriguez",
+      "I don't have any preliminary ideas or questions at the moment, but I'm sure I'll have some after we discuss your research findings in more detail. I'm really looking forward to our coffee chat!"
+    ],
+    [
+      "Maria Lopez",
+      "Great! See you at the caf\u00e9 near the conference venue at 3 pm."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Klaus Mueller": 704,
+    "Isabella Rodriguez": 800
+  },
+  "chatting_end_time": "February 13, 2023, 11:01:00",
+  "act_path_set": true,
+  "planned_path": []
+}
